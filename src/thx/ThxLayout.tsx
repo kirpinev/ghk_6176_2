@@ -32,8 +32,7 @@ export const ThxLayout = () => {
         </Typography.TitleResponsive>
         <Gap size={8} />
         <Typography.Text tag="p" view="primary-medium">
-          Вы только что поучаствовали в настоящем эксперименте. Сервиса не
-          существует. Мы скоро предложим лучшие условия!
+          Вы только что поучаствовали в настоящем эксперименте. Мы скоро предложим лучшие условия!
         </Typography.Text>
       </div>
 
